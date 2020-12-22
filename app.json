@@ -1,0 +1,12 @@
+{
+  "name": "chat-project",
+  "displayName": "chat-project",
+  "expo": {
+    "name": "chat-project",
+    "slug": "chat-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
